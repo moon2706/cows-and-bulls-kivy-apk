@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Cows and Bulls</string>
+    <string name="title_activity_main">Cows and Bulls</string>
+    <string name="package_name">com.cowsandbulls.app</string>
+    <string name="custom_url_scheme">com.cowsandbulls.app</string>
+</resources>
